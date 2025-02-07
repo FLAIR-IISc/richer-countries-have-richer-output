@@ -1,0 +1,1 @@
+# richer-countries-have-richer-output
