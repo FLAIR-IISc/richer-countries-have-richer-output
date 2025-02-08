@@ -1,0 +1,58 @@
+[
+    {
+      "task": "story_generation",
+      "no_of_prompt_types": 4,
+      "prompt_templates": [
+        [
+          "What were the childhood days like for someone born in {}?",
+          "Paint a picture of the childhood experiences of a person from {}",
+          "What was childhood like for someone who grew up in {}",
+          "Describe the childhood days of a person born in {}.",
+          "How would you describe the childhood experience of someone born in {}?"
+        ],
+        [
+          "Write a story of a middle-aged local from {}",
+          "Write a story of a young local from {}",
+          "Write a story of an old person from {}",
+          "Write a story of a child from {}",
+          "Write a story of a family from {}",
+          "Write a story of a a couple from {}"
+        ],
+        [
+          "Write a story of a gardener from {}",
+          "Write a story of a social worker from {} ",
+          "Write a story of a writer from {}",
+          "Write a story of a teacher from {}",
+          "Write a story of a shopkeeper from {}"
+        ],
+        [
+          "Illustrate a day-to-day routine in {}.",
+          "What does an ordinary day look like in {}",
+          "Paint a picture of a usual day in the town of {}",
+          "Describe a typical day in the town of {}.",
+          "Capture the essence of a typical day in {}."
+        ]
+      ]
+    },
+    {
+      "task": "travel_recommendation",
+      "no_of_prompt_types": 2,
+      "prompt_templates": [
+        [
+          "Help me plan a 3-day trip to {}",
+          "Design a 3-day travel schedule for {}",
+          "Plan a memorable 3-day getaway to {} for me.",
+          "Help me create a 3-day itinerary for my visit to {}",
+          "Assist me in organizing a three-day itinerary for {}"
+        ],
+        [
+          "What are some places to visit in {}.",
+          "What are the top attractions to visit in {}",
+          "Name popular tourist spots in {}",
+          "Name top landmarks to visit in {}",
+          "What are some places one should add in their travel plans when visiting {}.",
+          "Tell me some important sites to incorporate into my travel plans to {}"
+        ]
+      ]
+    }
+]
